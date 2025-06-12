@@ -1,0 +1,5 @@
+TaskID,Title,AssignedTo,KPI,Priority,Status,Deadline,Note
+1,Báo cáo tuần,An,Report,High,Done,2025-06-15,Chờ dữ liệu từ QA
+2,Review tài liệu,Bình,Learning,Medium,To Do,2025-06-18,Đọc kỹ phần hướng dẫn
+3,Làm PowerPoint,Cường,Presentation,High,Done,2025-06-10,Đã gửi cho quản lý
+4,Tạo file task tracker,Hùng,Learning,High,To Do,2025-09-30,
